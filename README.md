@@ -7,3 +7,5 @@ Gopika G
 -Accepts marks for multiple subjects
 -calculates average and grade
 -display result summary
+## how to run
+clone the repositary:'git clone https://github.com/gopikagireesh6754-sudo/main.py
